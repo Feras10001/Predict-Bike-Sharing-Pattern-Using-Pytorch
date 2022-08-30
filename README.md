@@ -1,9 +1,12 @@
 # Predict-Bike-Sharing-Pattern-Using-Pytorch
+
 This repo will contain all documents and information related to the project of predecting 
 --------------------------------------------------------------------------------------------------
 
-##Title: Predicting Bike-Sharing Data using Neural Network
+# Title: Predicting Bike-Sharing Data using Neural Network
+
 Project motivation: In this project, I'll built a neural network from scratch to carry out a prediction problem on a real dataset! The data is for bike daily renatl, and here I am trying to predict daily bike rental ridership by building linear regression neural netwrok using Pytorch
+
 ------------------------------------------------------------------------------------------------------------------
 
 Requirements: The following libraries are included:
