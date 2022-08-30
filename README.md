@@ -1,6 +1,6 @@
 # Predict-Bike-Sharing-Pattern-Using-Pytorch
-
 This repo will contain all documents and information related to the project of predecting 
+
 --------------------------------------------------------------------------------------------------
 
 # Title: Predicting Bike-Sharing Data using Neural Network
