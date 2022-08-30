@@ -11,19 +11,19 @@ Project motivation: In this project, I'll built a neural network from scratch to
 
 Requirements: The following libraries are included:
 
-Pandas
-numpy
-pytorch
-seaborn
+Pandas</br>
+numpy</br>
+pytorch</br>
+seaborn</br>
 matplotlib.pyplot
 
 ----------------------------------------------------------------------------------
 
 Files in the repository:
 
-[Preditction]: contains the code 
-[hour]: bike rentel data
-[my answer]: The neural network model
+[Neural Network To Predict Bike Rental.ipynb]: contains the code </br>
+[hour]: bike rentel data</br>
+[my answer]: The neural network model</br>
 data used: it was obtained from Udacity
 
 -------------------------------------------------------------------------
